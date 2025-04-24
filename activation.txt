@@ -1,4 +1,4 @@
 Name: عميد الحلو الساطي القوي
 UDID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
-Time: 2025/12/31
+Time: 2026/12/31
 Block: No
